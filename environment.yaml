@@ -1,0 +1,7 @@
+name: smoker-prediction
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - poetry=1.4.0
+  - jupyter
